@@ -30,12 +30,7 @@
       }
     ],
     "max-len": "off",
-    "no-param-reassign": [
-      "error",
-      {
-        "props": false
-      }
-    ],
+    "no-param-reassign": "off",
     "class-methods-use-this": "off",
     "new-cap": "off",
     "object-curly-newline": [
