@@ -23,6 +23,9 @@
   },
   "dependencies": {
     "dotenv": "^10.0.0",
-    "needle": "^3.0.0"
+    "https-proxy-agent": "^5.0.0",
+    "needle": "^3.0.0",
+    "socks-proxy-agent": "^6.1.0",
+    "tunnel": "0.0.6"
   }
 }
